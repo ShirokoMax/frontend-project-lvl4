@@ -1,10 +1,10 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
-import Layout from './Layout.jsx';
-import Home from './Home.jsx';
-import LoginForm from './LoginForm.jsx';
-import NotFound from './NotFound.jsx';
+import Layout from './Layout';
+import Home from './Home';
+import LoginForm from './LoginForm';
+import NotFound from './NotFound';
 
 const App = () => (
     <Routes>
